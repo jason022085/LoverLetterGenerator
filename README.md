@@ -2,7 +2,7 @@
 
 ### 請輸入英文句子(至少50個字，不能有數字):
 * I the short-time tenderness, as long as you life-long companion.
-* 
+
 ### 生成的情書(中文翻譯)
 
  我是短暫的溫柔，只要您在我的生活中充滿活力，並且愛我就喜歡我。
