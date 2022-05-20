@@ -3,7 +3,7 @@
 1. Auto_Love_Letter.ipynb: from reading data to generating a letter
 
 #### 輸入一段英文
-![image](https://user-images.githubusercontent.com/49050970/169518105-ea39a14a-8247-4ab8-87ae-90a9c55404f4.png)
+![image](https://user-images.githubusercontent.com/49050970/169518815-c26d0a32-db37-40c2-8273-20266df5858d.png)
 #### 生成一段英文
 ![image](https://user-images.githubusercontent.com/49050970/169518210-5efcd1cf-72e5-4d74-b3d2-0a4696b1abdb.png)
 #### 翻譯成中文
