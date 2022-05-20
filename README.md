@@ -1,22 +1,5 @@
 # LoverLetter
-
-### 請輸入英文句子(至少50個字，不能有數字):
-* I the short-time tenderness, as long as you life-long companion.
-
-### 生成的情書(中文翻譯)
-
- 我是短暫的溫柔，只要您在我的生活中充滿活力，並且愛我就喜歡我。
-您將在s！opachito中召集所有人和kquis墊子。
-您可能會因為我不愛您而向我求婚，因為您有一個非常笨拙的人，他們總是沉迷於犯罪。
-我們波菲尼
-輕描淡寫的我是肖爾斯特的反抗。 muntit ig virm beath為。
-你是rucian的愛
-我，一個，不會，
-我擁有永遠的愛，直到現在，沒有人會愛上我，我很樂意給兒子拉尤加。
-我愛你，今天晚安，我羅納德·阿萊德·普普塞普。
-你有你的手，尼弗和脆弱的嬰兒。
-你讓你在整個職業生涯中都蒙混過關，那麼你對我就感到最痛心。
-愛你，因為我對懷俄明州（Wyo Me）和我的父親非常滿意。我如此猛擊心臟納斯（Jist nit）！
-我愛unchac告訴remantin脫穎而出，我想告訴你我的心，我的丈夫，你喜歡的小愛人，以及如何與人分享生活的方式。
-痛苦的愛。
-您
+個人興趣：英文情書產生器
+1. Auto_Love_Letter.ipynb: RNN model
+2. Auto_Love_Letter_v2.ipynb: try add an attention layer
+![image](https://user-images.githubusercontent.com/49050970/169517408-fb5ad285-195d-42d8-a835-93a9bed2501c.png)
