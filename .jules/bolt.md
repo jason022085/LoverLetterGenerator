@@ -1,0 +1,3 @@
+## 2024-04-03 - Vectorizing OneHotEncoder.transform for sliding windows
+**Learning:** In machine learning data preparation pipelines, repeatedly calling `sklearn.preprocessing.OneHotEncoder.transform()` on tiny arrays inside a loop (especially for creating sliding windows) is extremely slow due to Python and sklearn overheads per call. However, optimizing this by referencing a global text variable breaks if the underlying windowing logic (e.g. shuffling or filtering `segments`) changes.
+**Action:** Always vectorize safely by extracting data directly from the segmented arrays, flattening/reshaping it into a bulk format suitable for `ohe.transform()`, and reshaping it back, preserving data integrity without per-call loop overhead.
